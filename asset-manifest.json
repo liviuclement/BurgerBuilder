@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/liviuclement.github.io/BurgerBuilder/static/css/main.78f29f4c.chunk.css",
+    "main.js": "/liviuclement.github.io/BurgerBuilder/static/js/main.d620d432.chunk.js",
+    "main.js.map": "/liviuclement.github.io/BurgerBuilder/static/js/main.d620d432.chunk.js.map",
+    "runtime-main.js": "/liviuclement.github.io/BurgerBuilder/static/js/runtime-main.12c29e12.js",
+    "runtime-main.js.map": "/liviuclement.github.io/BurgerBuilder/static/js/runtime-main.12c29e12.js.map",
+    "static/js/2.2f373e3a.chunk.js": "/liviuclement.github.io/BurgerBuilder/static/js/2.2f373e3a.chunk.js",
+    "static/js/2.2f373e3a.chunk.js.map": "/liviuclement.github.io/BurgerBuilder/static/js/2.2f373e3a.chunk.js.map",
+    "index.html": "/liviuclement.github.io/BurgerBuilder/index.html",
+    "precache-manifest.f0923624298180c44db1934931116b9a.js": "/liviuclement.github.io/BurgerBuilder/precache-manifest.f0923624298180c44db1934931116b9a.js",
+    "service-worker.js": "/liviuclement.github.io/BurgerBuilder/service-worker.js",
+    "static/css/main.78f29f4c.chunk.css.map": "/liviuclement.github.io/BurgerBuilder/static/css/main.78f29f4c.chunk.css.map",
+    "static/js/2.2f373e3a.chunk.js.LICENSE.txt": "/liviuclement.github.io/BurgerBuilder/static/js/2.2f373e3a.chunk.js.LICENSE.txt",
+    "static/media/burger-logo.png": "/liviuclement.github.io/BurgerBuilder/static/media/burger-logo.b8503d26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12c29e12.js",
+    "static/js/2.2f373e3a.chunk.js",
+    "static/css/main.78f29f4c.chunk.css",
+    "static/js/main.d620d432.chunk.js"
+  ]
+}
